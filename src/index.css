@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.HomeList {
+  padding: 75px;
+}
+
+.HomeCard {
+  border-radius: 5%;
+}
+
+.ExperienceList {
+  background-color: black;
+  margin-top: 0px;
+  color: white;
+  padding: 75px;
+}
+.ExperienceCard {
+  background-color: gray;
+  border-radius: 5%;
+}
+.ExperienceHeader p{
+  margin-bottom: 0px;
+}
+.ExperienceHeader {
+  color: white;
+  background-color: black;
+  margin-bottom: 0px;
+
+}
+.HomeHeader {
+  margin-bottom: 0px;
+
+}
+
+.card {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+}
